@@ -9,9 +9,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fer-C98&theme=radical&show_icons=true&hide_border=false&layout=compact" width="400">
 
 # SKILLS
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
 
-#Contato:
+# Contato:
+
 <a href="https://www.linkedin.com/in/fernanda-colle/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
